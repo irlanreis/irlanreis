@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irlan Reis
-f- 🌱 I’m currently learning  sobre a incrível biblioteca React
+- 🌱 I’m currently learning  sobre a incrível biblioteca React
 - 💞️ I’m looking to collaborate on  em construções de  software e demais assuntos  no que tange tecnologia.
 - 📫 How to reach me  tem o email xuiexpress@gmail.com
 
