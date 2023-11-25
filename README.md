@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @irlan Reis
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&size=30&duration=2000&pause=1500&color=8C03C0&width=520&lines=Ol%C3%A1!+%F0%9F%91%8B+;Seja+bem+vindo(a)+ao+meu+github!)](https://git.io/typing-svg)
+## Eu sou o Irlan Reis!
 - 🌱 I’m currently learning  sobre a incrível biblioteca React
 - 💞️ I’m looking to collaborate on  em construções de  software e demais assuntos  no que tange tecnologia.
 - 📫 How to reach me  tem o email xuiexpress@gmail.com
