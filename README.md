@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&size=30&duration=2000&pause=1500&color=8C03C0&width=520&lines=Ol%C3%A1!+%F0%9F%91%8B+;Seja+bem+vindo(a)+ao+meu+github!)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&size=30&duration=2000&pause=1500&color=8C03C0&width=520&lines=Ol%C3%A1!+%F0%9F%91%8B+;Seja+bem+vindo(a)+ao+meu+github!>)](https://git.io/typing-svg)
 
 ## Eu sou o Irlan Reis!
 
@@ -6,20 +6,22 @@ Apaixonado por tecnologia me descobri no mundo do desenvolvimento de software.
 
 Comecei minha carreira a um ano e meio atrás.
 
-Estou sempre aprendendo e melhorando minhas habilidades, *long life learn*.
+Estou sempre aprendendo e melhorando minhas habilidades, _long life learn_.
 
 Atualmente conclui o curso de desenvolvimento web pela Trybe.
 
-Já dizia um antigo ditado: *Tudo que você faz repetidamente vira excelência*.
+Já dizia um antigo ditado: _Tudo que você faz repetidamente vira excelência_.
 
 ---
 
 ### Tecnologias:
 
 ---
+
 #### Programming Languages
 
 ### 🎖 Favorites
+
 <div style="display: inline_block">
   <img alt="Irlan-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Irlan-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -30,8 +32,8 @@ Já dizia um antigo ditado: *Tudo que você faz repetidamente vira excelência*.
 
 ### 📌 Used to work with
 
-
 ### Front-end:
+
 <div style="display: inline_block">
   <img alt="Irlan-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Irlan-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,6 +45,7 @@ Já dizia um antigo ditado: *Tudo que você faz repetidamente vira excelência*.
 ---
 
 ### Back-end:
+
 <div style="display: inline_block">
   <img alt="Irlan-DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Irlan-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -53,8 +56,9 @@ Já dizia um antigo ditado: *Tudo que você faz repetidamente vira excelência*.
 </div>
 
 ---
-  
+
 ### Testes:
+
 <div style="display: inline_block">
   <img alt="Irlan-JEST" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="Irlan-RTL" src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white" />
