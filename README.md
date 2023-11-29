@@ -68,8 +68,9 @@ Já dizia um antigo ditado: _Tudo que você faz repetidamente vira excelência_.
 
 ---
 
-<div align="center">
-  <a href="https://github.com/irlanreis">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irlanreis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlanreis&layout=compact&langs_count=7&theme=midnight-purple"/>
+<div style="display: block">
+  
+  ![irlanreis-stats](https://github-readme-stats.vercel.app/api?username=irlanreis&show_icons=true&theme=dracula)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irlanreis&hide=jupyter%20notebook,objective-c&langs_count=10&layout=compact&theme=dracula)](https://github.com/irlanreis/github-readme-stats)
 </div>
