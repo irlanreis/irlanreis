@@ -13,7 +13,13 @@ Atualmente conclui o curso de desenvolvimento web pela Trybe.
 Já dizia um antigo ditado: *Tudo que você faz repetidamente vira excelência*.
 
 ---
-### Linguagens:
+
+### Tecnologias:
+
+---
+#### Programming Languages
+
+### 🎖 Favorites
 <div style="display: inline_block">
   <img alt="Irlan-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Irlan-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -21,6 +27,9 @@ Já dizia um antigo ditado: *Tudo que você faz repetidamente vira excelência*.
 </div>
 
 ---
+
+### 📌 Used to work with
+
 
 ### Front-end:
 <div style="display: inline_block">
