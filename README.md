@@ -2,22 +2,25 @@
 
 ## Eu sou o Irlan Reis!
 
-Apaixonado por tecnologia me descobri no mundo do desenvolvimento de software,
- sempre aprendendo e melhorando minhas habilidades.<br>
- Já dizia um antigo ditado: *Tudo que você faz repetidamente vira excelência*.
+Apaixonado por tecnologia me descobri no mundo do desenvolvimento de software.
 
-<div align="center">
-  <a href="https://github.com/irlanreis">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irlanreis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlanreis&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+Comecei minha carreira a um ano e meio atrás.
 
+Estou sempre aprendendo e melhorando minhas habilidades, *long life learn*.
+
+Atualmente conclui o curso de desenvolvimento web pela Trybe.
+
+Já dizia um antigo ditado: *Tudo que você faz repetidamente vira excelência*.
+
+---
 ### Linguagens:
 <div style="display: inline_block">
   <img alt="Irlan-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Irlan-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Irlan-PYTHON" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
 </div>
+
+---
 
 ### Front-end:
 <div style="display: inline_block">
@@ -28,6 +31,8 @@ Apaixonado por tecnologia me descobri no mundo do desenvolvimento de software,
   <img alt="Irlan-BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
+---
+
 ### Back-end:
 <div style="display: inline_block">
   <img alt="Irlan-DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
@@ -37,6 +42,8 @@ Apaixonado por tecnologia me descobri no mundo do desenvolvimento de software,
   <img alt="Irlan-SEQUELIZE" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
   <img alt="Irlan-JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </div>
+
+---
   
 ### Testes:
 <div style="display: inline_block">
@@ -47,7 +54,11 @@ Apaixonado por tecnologia me descobri no mundo do desenvolvimento de software,
   <img alt="Irlan-SINON" src="https://img.shields.io/badge/sinon-323330?style=for-the-badge&logo=sinon" />
   <img alt="Irlan-PYTEST" src="https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=0A9EDC&logo=Pytest&logoColor=FFFFFF&label=" />
 </div>
-<!---
-irlan25/irlan25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+<div align="center">
+  <a href="https://github.com/irlanreis">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irlanreis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlanreis&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
