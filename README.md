@@ -30,8 +30,6 @@ Já dizia um antigo ditado: _Tudo que você faz repetidamente vira excelência_.
 
 ---
 
-### 📌 Used to work with
-
 ### Front-end:
 
 <div style="display: inline_block">
