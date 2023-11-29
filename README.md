@@ -1,16 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&size=30&duration=2000&pause=1500&color=8C03C0&width=520&lines=Ol%C3%A1!+%F0%9F%91%8B+;Seja+bem+vindo(a)+ao+meu+github!)](https://git.io/typing-svg)
-## Eu sou o Irlan Reis!
-- 🌱 I’m currently learning  sobre a incrível biblioteca React
-- 💞️ I’m looking to collaborate on  em construções de  software e demais assuntos  no que tange tecnologia.
-- 📫 How to reach me  tem o email xuiexpress@gmail.com
 
-- <div align="center">
+## Eu sou o Irlan Reis!
+
+Apaixonado por tecnologia me descobri no mundo do desenvolvimento de software,
+ sempre aprendendo e melhorando minhas habilidades.<br>
+ Já dizia um antigo ditado: *Tudo que você faz repetidamente vira excelência*.
+
+<div align="center">
   <a href="https://github.com/irlanreis">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irlanreis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlanreis&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-- ### Linguagens:
+### Linguagens:
 <div style="display: inline_block">
   <img alt="Irlan-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Irlan-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
