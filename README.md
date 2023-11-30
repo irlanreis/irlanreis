@@ -79,8 +79,8 @@ Já dizia um antigo ditado: _Tudo que você faz repetidamente vira excelência_.
 
 <div style="display: inline_block">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irlanreis&hide=jupyter%20notebook,objective-c&langs_count=10&layout=compact&theme=dracula)](https://github.com/irlanreis/github-readme-stats)
+  <img alt="my stats" aling="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlanreis&hide=jupyter%20notebook,objective-c&langs_count=10&layout=compact&theme=dracula"/>
   
-  ![irlanreis-stats](https://github-readme-stats.vercel.app/api?username=irlanreis&show_icons=true&theme=dracula)
+  <img alf="top langs" aling="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=irlanreis&show_icons=true&theme=dracula"/>
   
 </div>
