@@ -69,8 +69,8 @@ Já dizia um antigo ditado: _Tudo que você faz repetidamente vira excelência_.
 <div style="display: inline_block">
   <img alt="Irlan-JEST" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="Irlan-RTL" src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white" />
-  <img alt="Irlan-MOCHA" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
   <img alt="Irlan-CHAI" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+  <img alt="Irlan-MOCHA" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
   <img alt="Irlan-SINON" src="https://img.shields.io/badge/sinon-323330?style=for-the-badge&logo=sinon" />
   <img alt="Irlan-PYTEST" src="https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=0A9EDC&logo=Pytest&logoColor=FFFFFF&label=" />
 </div>
