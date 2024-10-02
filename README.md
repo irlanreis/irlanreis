@@ -4,8 +4,6 @@
 
 Apaixonado por tecnologia me descobri no mundo do desenvolvimento de software.
 
-Comecei minha carreira a um ano e meio atrás.
-
 Estou sempre aprendendo e melhorando minhas habilidades, _long life learn_.
 
 Atualmente concluí o curso de desenvolvimento web pela Trybe.
