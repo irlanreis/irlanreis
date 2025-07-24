@@ -6,7 +6,7 @@ Apaixonado por tecnologia me descobri no mundo do desenvolvimento de software.
 
 Estou sempre aprendendo e melhorando minhas habilidades, _long life learn_.
 
-Atualmente concluí o curso de desenvolvimento web pela Trybe.
+Atualmente concluí o curso de desenvolvimento web pela Trybe e estou cursando o 4º semestre de Engenharia de Software.
 
 Já dizia um antigo ditado: _Tudo que você faz repetidamente vira excelência_.
 
